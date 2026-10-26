@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Eleanoryuan 👋</h1>
-  <p><b>Independent Interior Designer | Production & Sourcing Coordinator</b></p>
-  <p>Bridging Creative Design with Manufacturable Reality.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eleanoryuan&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Interior%20Designer%20%7C%20Sourcing%20Specialist&descSize=20&descAlignY=55&color=gradient" />
+</div>
+<div align="center">
   
   <!-- Tech & Skill Badges -->
   ![AutoCAD](https://img.shields.io/badge/-AutoCAD-000000?style=flat-square&logo=autodesk&logoColor=white)
