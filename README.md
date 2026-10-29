@@ -54,8 +54,8 @@ I am currently available for **remote design, production drawing coordination, c
 
 I communicate fluently in English via email and meetings, and I am highly adaptable to cross-timezone collaboration.
 
-- 📧 **Email**: [rurora_2024@zohomail.cn]
-- 💼 **WeChat / WhatsApp**: [Fiee-0805888/+86 18112958665]
-- 🌐 **Portfolio Website**: [https://Eleanoryuan.github.io](https://Eleanoryuan.github.io) *(Coming Soon)*
+- 📧 **Email**: ururuoa_2024@zohomail.cn
+- 💬 **WeChat / WhatsApp**: +86 18112958665
+- 🌐 **Portfolio Website**: [https://eleanoryuan-studio.github.io](https://eleanoryuan-studio.github.io)
 
 > *"Good design is not just a beautiful rendering; it's manufacturable, cost-effective, and delivered on time."*
