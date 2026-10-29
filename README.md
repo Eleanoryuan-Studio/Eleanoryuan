@@ -54,7 +54,7 @@ I am currently available for **remote design, production drawing coordination, c
 
 I communicate fluently in English via email and meetings, and I am highly adaptable to cross-timezone collaboration.
 
-- 📧 **Email**: ururuoa_2024@zohomail.cn
+- 📧 **Email**: rurora_2024@zohomail.cn
 - 💬 **WeChat / WhatsApp**: +86 18112958665
 - 🌐 **Portfolio Website**: [https://eleanoryuan-studio.github.io](https://eleanoryuan-studio.github.io)
 
